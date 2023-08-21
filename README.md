@@ -1,5 +1,5 @@
 # Тестовое наставника kids ai
-## @meet_me_bot
+## @meet_me_mybot
 
 ### **Задание**
 
